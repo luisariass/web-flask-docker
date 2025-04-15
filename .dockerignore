@@ -1,0 +1,15 @@
+.vscode/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.git
+.gitignore
+Dockerfile
+*.md
+dev-requirements.txt
+pyproject.toml
+tests/
